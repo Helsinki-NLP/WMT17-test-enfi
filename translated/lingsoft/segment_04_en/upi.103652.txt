@@ -1,0 +1,18 @@
+Kepler mittaa tähtien pyörimisnopeutta Plejadien tähtijoukossa
+Kepler-avaruusteleskoopin uusimpana tehtävänä on ollut tähtien pyörimisnopeuden mittaaminen, mikä on auttanut astronomeja kokoamaan tähän mennessä kattavimman luettelon Plejadien tähtijoukkoon kuuluvien tähtien pyörimisnopeuksista.
+Uusien tietojen pohjalta astronomit pystyvät selvittämään, miksi samaan tähtijoukkoon kuuluvat tähdet pyörivät eri nopeuksilla ja kuinka kiertoajat liittyvät planeettamuodostelmaan.
+"Toivomme, että vertailemalla tuloksia muihin tähtijoukkoihin opimme lisää tähden painon ja iän välisestä suhteesta ja jopa sen aurinkokunnan historiasta", sanoo Pasadenassa toimivan Caltechin yliopiston infrapunan käsittely- ja analysointikeskuksen tutkija Luisa Rebull lehdistötiedotteessa.
+Plejadien tähtijoukko sijaitsee 445 valovuoden päässä maapallosta.
+Moni tähtijoukon tähdistä on syntynyt noin 125 miljoonaa vuotta sitten, mikä tarkoittaa, että ne ovat juuri saavuttamassa aikuisikäänsä.
+Ne pyörivät tällä hetkellä nopeammin kuin koskaan.
+Pyörimisnopeuden ollessa huipussaan aikuistuvista tähdistä purkautuu suuria määriä tähtituulta.
+Näillä tuulilla on tähtiin jarruttava vaikutus niiden edetessä tähtien magneettikenttien läpi.
+Tähden ikääntyessä sen pyörimisnopeus alkaa hidastua.
+Kepler mittaa jokaisen tähden pyörimisnopeutta seuraamalla tunnistettavien tähdenpilkkujen (jotka vastaavat auringonpilkkuja) ilmestymisen välistä aikaa.
+Viimeisimmät luetteloidut pyörimisnopeustiedot viittaavat siihen, että suuremmat tähdet pyörivät hitaammin kuin pienemmät.
+Rebull vertaa tähtiä tanssijoihin – suuremmat pyörähtelevät hitaammin kuin pienemmät.
+"Näemme Plejadien "tanssista", että hitaasti pyörivät ovat tyypillisesti suurempia, kun taas nopeimmin pyörivät ovat tyypillisesti hyvin kevyitä tähtiä", sanoo Rebull.
+Koska Plejadien tähtijoukko on niin lähellä, se toimii ihanteellisena avaruuslaboratoriona, jonka avulla tähtien ominaisuuksia voidaan verrata suhteessa pyörimisnopeuksiin.
+"Plejadien tähtijoukko tarjoaa tukipilarin sekä nuorempien että vanhempien tähtien pyörimistä käsitteleville teoreettisille malleille", sanoo Rebull.
+Haluamme saada vielä paljon lisätietoa siitä, kuinka, milloin ja miksi tähdet hidastavat pyörimisnopeuttaan ja lopettavat "tanssinsa".
+Rebull kollegoineen esittää tuoreimman analyysinsa Plejadien pyörimisnopeuksista kolmessa uudessa artikkelissaan, jotka julkaistaan pian Astronomical Journal -aikakausjulkaisussa.

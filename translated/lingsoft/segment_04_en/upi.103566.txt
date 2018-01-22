@@ -1,0 +1,17 @@
+NASAn ilmastomalli: Venus on ollut elinkelpoinen
+NASAn uuden ilmastomallin arvioiden mukaan Venus on saattanut olla elinkelpoinen.
+NASAn Goddard Institute for Space Studies (GISS) kehitti mallin, jonka avulla Venuksen menneisyyttä tutkitaan samoilla työkaluilla ja algoritmeilla kuin mitä ilmastotutkijat käyttävät.
+Mallin avulla oli tarkoitus selvittää, ovatko olosuhteet Venuksessa voineet joskus olla samankaltaiset kuin maapallolla, vaikka Venus on pinnaltaan kuuma ja vedetön ja sen kaasukehä koostuu lähes kokonaan hiilidioksidista.
+Tutkijoiden aiempien esitysten mukaan Venuksen hidas pyörimisnopeus selittyy sen paksulla kaasukehällä.
+Viimeisimmän simulaation perusteella voidaan kuitenkin olettaa, että Venuksella on ollut ohut, maapalloa vastaava ilmakehä, ja se on siitä huolimatta pyörinyt hitaasti.
+Mallia käytettiin myös varhaisen Venuksen pinnanmuodostuksen selvittämiseen.
+Planeetalla oli todennäköisesti enemmän kuivia alueita kuin Maassa, mutta siellä on saattanut olla tarpeeksi vettä ja maantieteellistä vaihtelua elämän ylläpitämiseen ja nopean haihtumisen estämiseen.
+Varhainen Venus hyötyi myös auringosta, joka oli 30 prosenttia himmeämpi.
+"GISS:n mallinnuksessa Venus pyörii hitaasti ja sen päiväpuoli on aurinkoa kohden lähes kaksi kuukautta kerrallaan", kertoo GISS:n tutkija Anthony Del Genio lehdistötiedotteessa.
+Tämä lämmittää pintaa ja synnyttää sadetta, joka luo paksun pilvikerroksen. Pilvikerros toimii sateenvarjon tavoin ja suojaa pintaa suurelta osalta auringon lämpöä.
+Tämän seurauksena ilmaston keskilämpötilat ovat jopa muutaman asteen alhaisempia kuin Maan nykyiset lämpötilat.
+Mallin avulla luotiin Venuksen tarina, joka vastaa planeettatutkijoiden aiempia oletuksia sen kehityskulusta.
+Vaikka Venus onkin saattanut olla elinkelpoinen, se on kuitenkin useiden miljardien vuosien ajan altistunut liialliselle kuumuudelle ja ultraviolettivalolle.
+Sen valtameret haihtuivat, ja ultraviolettivalo poltti höyrystyneen veden.
+Vedyn karatessa avaruuteen jäljelle jäi vain paksu hiilidioksidipitoinen kaasukehä ja tappava kasvihuonevaikutus – ts. Venus sellaisena, kuin se on nykyäänkin.
+Tutkijat kertoivat uuden Venus-ilmastomallinnuksen tuloksista Geophysical Research Letters -lehdessä.

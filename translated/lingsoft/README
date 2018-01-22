@@ -1,0 +1,7 @@
+
+* different line numbers in translated/untranslated because of missing newline in untranslated:
+
+added newlines at the end of
+segment_05_en/guardian.127894.txt
+segment_04_en/bbc.242324.txt
+

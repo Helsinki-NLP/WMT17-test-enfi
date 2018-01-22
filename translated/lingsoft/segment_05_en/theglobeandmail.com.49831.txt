@@ -1,0 +1,15 @@
+Adblock Plus ja Facebook mainosteneston kissa-hiiri-leikissä
+Verkkomainonnasta rahansa ansaitsevien yritysten pyrkimykset harhauttaa mainostenesto-ohjelmistoja on muuttunut kissa-hiiri-leikiksi, sanoo yksi esto-ohjelmia tuottava yritys.
+Torstaina, vain kaksi päivää sen jälkeen, kun Facebook oli ilmoittanut omalla sivullaan estävänsä mainostenesto-ohjelmat, Adblock Plus julkaisi blogikirjoituksen, missä se kertoi, että käyttäjät voivat päivittää esto-ohjelmistonsa suodattimet ja näin jälleen estää yhteisöpalvelun mainokset.
+Tiistaina Facebook ilmoitti muuttavansa desktop-sivustonsa mainosten merkintäkoodeja siten, että mainostenesto-ohjelmien on vaikeampi tunnistaa, mitkä sivun osat ovat mainoksia.
+Nyt Adblock kertoo kuitenkin selvittäneensä uudet koodit.
+Adblockin tiedottaja Ben Williams kirjoitti blogikirjoituksessaan, että "tällainen pallottelu avoimen lähdekoodin mainostenestoyhteisön ja harhauttajien välillä on ollut käynnissä siitä lähtien kun mainostenesto keksittiin" ja että on mahdollista, että Facebook tekee pian taas oman korjausliikkeensä.
+Se, että maailman suurin sosiaalisen median yritys on osallistunut taisteluun, on vahva osoitus siitä, kuinka suureksi huolenaiheeksi mainostenestäjät ovat muodostuneet alalle.
+Maailmanlaajuisesti arviolta 200 miljoonaa ihmistä käyttää mainostenesto-ohjelmia, kertoo Pagefairin ja Adoben viime vuonna tekemä tutkimus. Luku on lähes nelinkertaistunut vuodesta 2013.
+Facebookia käyttää päivittäin mobiililaitteilla 1,03 miljoonaa aktiivista käyttäjää, ja mobiilimainonnan osuus Facebookin mainostuloista on jo 84 prosenttia.
+Yritys aikoo kuitenkin panostaa mainostenesto-ohjelmien harhauttamiseen desktop-sovelluksessaan, sillä tiedottajan mukaan mobiilimainosten esto-ohjelmat eivät toimi Facebookin mobiilisovelluksissa ja Instagramissa.
+Desktop-mainoksista saatavat tulot ovat edelleen riittävän suuret, minkä vuoksi Facebook piti panostusta kannattavana.
+Tiistaina Facebook kertoi myös päivittävänsä käyttäjäasetusten mainostyökalua, jotta käyttäjät voivat enemmän kontrolloida, kuinka mainoksia kohdennetaan heihin.
+Torstaina Facebook kritisoi Adblockin uusia suodattimia, sillä sen mukaan ne estävät myös joidenkin tavallisten Facebook-kirjoitusten näkymisen.
+"Tämä ei ole käyttäjille hyvä kokemus, ja aiomme ratkaista ongelman" sanoi Facebookin tiedottaja sähköpostitiedotteessaan.
+"Mainostenesto-ohjelmat ovat kömpelöitä ja tehottomia, ja siksi olemme niiden sijaan panostaneet mainostyökalujen kaltaisten käyttäjäasetusten kehittämiseen, jotta ihmiset voivat itse kontrolloida mainosten kohdentamista."
